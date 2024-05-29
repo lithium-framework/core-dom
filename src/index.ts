@@ -25,10 +25,6 @@ export {
   useEffect , UseEffectDirective
 } from './directives/index.js';
 
-export {
-
-} from './decorators/index.js';
-
 export { 
   html, 
   css,
